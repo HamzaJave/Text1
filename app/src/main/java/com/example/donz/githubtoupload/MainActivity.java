@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // Waleed ko new file bhej rha hun
-        // Waleed new things reveived
+        //Hamza bahi ko new file send kr rhhA HUN
+        //News123
     }
 }
