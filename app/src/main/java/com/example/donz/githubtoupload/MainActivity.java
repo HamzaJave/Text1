@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // Waleed ko new file bhej rha hun
         //Hamza bahi ko new file send kr rhhA HUN
+        //News
     }
 }
