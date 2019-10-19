@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // Changing from Github File
-    
+        Toast.makeText(this, "New Toast Added from waleed", Toast.LENGTH_SHORT).show();
     }
 }
